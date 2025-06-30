@@ -55,7 +55,7 @@ Follow these steps to run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/collaborative-editor-app.git
+    git clone https://github.com/vishal24989/collaborative-editor-app.git
     cd collaborative-editor-app
     ```
 
